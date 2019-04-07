@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.IO;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -16,10 +17,7 @@ namespace WCFServiceUdajeOsoby
         public List<Osoba> GetDataFromXML()
         {
             List<Osoba> ArrayOfOsoba = new List<Osoba>();
-
             XmlSerializer formatter = new XmlSerializer(typeof(Osoba[]));
-
-            //string flie = ConfigurationManager.AppSettings["fileXML"];
 
             using (FileStream fs = new FileStream("DataOsoby.xml", FileMode.OpenOrCreate))
             {                
