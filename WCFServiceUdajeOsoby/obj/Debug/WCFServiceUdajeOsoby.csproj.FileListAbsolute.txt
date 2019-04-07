@@ -1,0 +1,6 @@
+D:\VSProjects\UdajeOsoby\WCFServiceUdajeOsoby\bin\Debug\WCFServiceUdajeOsoby.dll.config
+D:\VSProjects\UdajeOsoby\WCFServiceUdajeOsoby\bin\Debug\WCFServiceUdajeOsoby.dll
+D:\VSProjects\UdajeOsoby\WCFServiceUdajeOsoby\bin\Debug\WCFServiceUdajeOsoby.pdb
+D:\VSProjects\UdajeOsoby\WCFServiceUdajeOsoby\obj\Debug\WCFServiceUdajeOsoby.csproj.CoreCompileInputs.cache
+D:\VSProjects\UdajeOsoby\WCFServiceUdajeOsoby\obj\Debug\WCFServiceUdajeOsoby.dll
+D:\VSProjects\UdajeOsoby\WCFServiceUdajeOsoby\obj\Debug\WCFServiceUdajeOsoby.pdb

@@ -1,0 +1,11 @@
+D:\VSProjects\UdajeOsoby\WCFHost\bin\Debug\WCFHost.exe.config
+D:\VSProjects\UdajeOsoby\WCFHost\bin\Debug\WCFHost.exe
+D:\VSProjects\UdajeOsoby\WCFHost\bin\Debug\WCFHost.pdb
+D:\VSProjects\UdajeOsoby\WCFHost\bin\Debug\WCFServiceUdajeOsoby.dll
+D:\VSProjects\UdajeOsoby\WCFHost\bin\Debug\WCFServiceUdajeOsoby.pdb
+D:\VSProjects\UdajeOsoby\WCFHost\bin\Debug\WCFServiceUdajeOsoby.dll.config
+D:\VSProjects\UdajeOsoby\WCFHost\obj\Debug\WCFHost.csprojAssemblyReference.cache
+D:\VSProjects\UdajeOsoby\WCFHost\obj\Debug\WCFHost.csproj.CoreCompileInputs.cache
+D:\VSProjects\UdajeOsoby\WCFHost\obj\Debug\WCFHost.csproj.CopyComplete
+D:\VSProjects\UdajeOsoby\WCFHost\obj\Debug\WCFHost.exe
+D:\VSProjects\UdajeOsoby\WCFHost\obj\Debug\WCFHost.pdb
